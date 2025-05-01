@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gain Shift Capital</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #0f172a;
+      color: #f8fafc;
+    }
+    header {
+      background: #1e293b;
+      text-align: center;
+      padding: 60px 20px 30px;
+    }
+    header h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+      color: #38bdf8;
+    }
+    header p {
+      font-size: 1.2em;
+      color: #cbd5e1;
+    }
+    main {
+      max-width: 800px;
+      margin: 40px auto;
+      background: #1e293b;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.4);
+    }
+    h2 {
+      color: #38bdf8;
+      margin-top: 30px;
+    }
+    .button {
+      display: inline-block;
+      background: #22d3ee;
+      color: #0f172a;
+      padding: 12px 24px;
+      margin: 15px 0;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .plan {
+      background: #0f172a;
+      padding: 15px;
+      border-left: 5px solid #38bdf8;
+      margin-bottom: 20px;
+      border-radius: 6px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #1e293b;
+      color: #94a3b8;
+      font-size: 0.9em;
+      margin-top: 60px;
+    }
+    a {
+      color: #38bdf8;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Gain Shift Capital</h1>
+    <p>Founded by Jabrille Willis – Empowering Investors with a Positive Mindset</p>
+  </header>
+
+  <main>
+    <h2>Ready to Build Wealth Through Forex?</h2>
+    <p>Join our mentorship program and level up your financial game.</p>
+    <a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLSdY_u6HgTwmzaCA7tgwaU7gJwJUIBlZnlzoDX9EllUWJlCqPQ/viewform" target="_blank">Join Now</a>
+
+    <h2>Mentorship Plans</h2>
+    <div class="plan">
+      <strong>Weekly Plan - $50/week</strong><br/>
+      - 1-on-1 sessions<br/>
+      - Signals<br/>
+      - Mindset support
+    </div>
+    <div class="plan">
+      <strong>Monthly Plan - $150/month</strong><br/>
+      - Full mentorship<br/>
+      - Bonus content<br/>
+      - Priority help
+    </div>
+
+    <h2>About Me</h2>
+    <p>I'm <strong>Jabrille Willis</strong>, founder of Gain Shift Capital. I’ve been in the Forex game since age 14. My mission is simple: to help people transform their mindset and grow real income with strategy and support. Let's grow together.</p>
+
+    <h2>Contact</h2>
+    <p>Email: gainshiftcapital@example.com<br/>
+    Instagram: <a href="https://instagram.com/mr.gainshift" target="_blank">@mr.gainshift</a></p>
+  </main>
+
+  <footer>
+    © 2025 Gain Shift Capital — Created by Jabrille Willis a.k.a. Mr. Gain Shift
+  </footer>
+</body>
+</html>
